@@ -1,2 +1,4 @@
+`git rebase -i` without any arguments selects the commits which haven't been pushed to remote.
+%
 `git checkout -` changes into the previous branch. As `cd -` changes into the previous directory.
 %
