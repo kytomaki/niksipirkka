@@ -2,3 +2,5 @@
 %
 `git checkout -` changes into the previous branch. As `cd -` changes into the previous directory.
 %
+`git config --global push.followTags true` will configure the push to push missing annotated tags that are missing from but reachable from the refs being pushed.
+%
